@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: black;
+}
+
+h4{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+h3{
+    text-align: center;
+    color: black;
+}
+
+#fill{
+    background: gray;
+}
+
+table{
+    border: 4px solid black;
+    color: black;
+    background: gray;
+}
+
+.body{
+    text-align: center;
+    color: black;
+}
