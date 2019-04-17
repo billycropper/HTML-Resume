@@ -23,9 +23,11 @@ h3{
 }
 
 table{
-    border: 4px solid black;
+    border: 2px solid black;
     color: black;
     background: gray;
+    padding: 50px;
+    border-bottom: 1px;
 }
 
 .body{
